@@ -18,7 +18,7 @@ time.sleep(5)
 
 for i in range(0,repeats):         #Message sending loop
 	if message != "":
-		pyautogui.typewrite(message)     
+		pyautogui.typewrite(I HAVE CRUSH ON YOU )     
 		pyautogui.press("enter")
 	else:
 		pyautogui.hotkey('ctrl', 'v')      
